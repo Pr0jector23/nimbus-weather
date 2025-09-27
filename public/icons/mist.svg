@@ -1,0 +1,63 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31 33">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #c7c7c7;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        fill: url(#Безымянный_градиент_925);
+      }
+
+      .cls-2 {
+        fill: url(#Безымянный_градиент_925-2);
+      }
+
+      .cls-3 {
+        fill: url(#Безымянный_градиент_925-3);
+      }
+
+      .cls-4 {
+        fill: url(#Безымянный_градиент_925-4);
+      }
+
+      .cls-5 {
+        fill: url(#Безымянный_градиент_925-5);
+      }
+
+      .cls-6 {
+        fill: url(#Безымянный_градиент_925-6);
+      }
+
+      .cls-7 {
+        fill: url(#Безымянный_градиент_925-7);
+      }
+    </style>
+    <radialGradient id="Безымянный_градиент_925" data-name="Безымянный градиент 925" cx="11.9478" cy="8.1197" r="4.0812" gradientTransform="translate(2.9216 3.6678) scale(0.7853 0.5483)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.0092" stop-color="#a6dbff"/>
+      <stop offset="0.1778" stop-color="#a0d6fb"/>
+      <stop offset="0.4014" stop-color="#8fc9ef"/>
+      <stop offset="0.6558" stop-color="#74b2dd"/>
+      <stop offset="0.9311" stop-color="#4e93c2"/>
+      <stop offset="0.981" stop-color="#468dbd"/>
+    </radialGradient>
+    <radialGradient id="Безымянный_градиент_925-2" cx="10.0866" cy="10.5328" r="4.0812" gradientTransform="translate(-0.8984 4.7578) scale(1.435 0.5483)" xlink:href="#Безымянный_градиент_925"/>
+    <radialGradient id="Безымянный_градиент_925-3" cx="12.7679" cy="13.5328" r="4.0812" gradientTransform="translate(-0.8984 6.113) scale(1.435 0.5483)" xlink:href="#Безымянный_градиент_925"/>
+    <radialGradient id="Безымянный_градиент_925-4" cx="12.4225" cy="16.5328" r="4.0812" gradientTransform="translate(-5.1394 7.4681) scale(1.6954 0.5483)" xlink:href="#Безымянный_градиент_925"/>
+    <radialGradient id="Безымянный_градиент_925-5" cx="3.7261" cy="-6.0324" r="4.0812" gradientTransform="translate(21.6218 21.5728) rotate(180) scale(0.7853 0.5483)" xlink:href="#Безымянный_градиент_925"/>
+    <radialGradient id="Безымянный_градиент_925-6" cx="5.5873" cy="-3.6194" r="4.0812" gradientTransform="translate(25.4419 20.4828) rotate(180) scale(1.435 0.5483)" xlink:href="#Безымянный_градиент_925"/>
+    <radialGradient id="Безымянный_градиент_925-7" cx="8.2687" cy="-0.6194" r="4.0812" gradientTransform="translate(25.4419 19.1276) rotate(180) scale(1.435 0.5483)" xlink:href="#Безымянный_градиент_925"/>
+  </defs>
+  <g id="mist">
+    <line class="cls-1" x1="7.7717" y1="8.1197" x2="16.837" y2="8.1197"/>
+    <line class="cls-2" x1="5.2935" y1="10.5328" x2="21.8587" y2="10.5328"/>
+    <line class="cls-3" x1="9.1413" y1="13.5328" x2="25.7065" y2="13.5328"/>
+    <line class="cls-4" x1="6.1361" y1="16.5328" x2="25.7065" y2="16.5328"/>
+    <line class="cls-5" x1="23.2283" y1="24.8803" x2="14.163" y2="24.8803"/>
+    <line class="cls-6" x1="25.7065" y1="22.4672" x2="9.1413" y2="22.4672"/>
+    <line class="cls-7" x1="21.8587" y1="19.4672" x2="5.2935" y2="19.4672"/>
+  </g>
+</svg>

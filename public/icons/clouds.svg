@@ -1,0 +1,18 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Безымянный_градиент_477);
+      }
+    </style>
+    <radialGradient id="Безымянный_градиент_477" data-name="Безымянный градиент 477" cx="16.1848" cy="15.151" r="17.9712" gradientTransform="translate(0 6.8439) scale(1 0.5483)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#45b5ff"/>
+      <stop offset="0.1346" stop-color="#43b1f9"/>
+      <stop offset="0.3131" stop-color="#3fa5e8"/>
+      <stop offset="0.5163" stop-color="#3791cd"/>
+      <stop offset="0.7359" stop-color="#2d77a7"/>
+      <stop offset="0.9382" stop-color="#22597d"/>
+    </radialGradient>
+  </defs>
+  <path id="cloud" class="cls-1" d="M24.0638,11.2533a7.2351,7.2351,0,0,0-12.403-.906l-.0095.0164a2.33,2.33,0,0,0-1.8565-.96,2.3725,2.3725,0,0,0-2.3725,2.3725c0,.0475.0244.0872.027.1341l-.0063-.0008H7.4118A7.1842,7.1842,0,0,0,.3407,18.0012a.8475.8475,0,0,0,.8552.9376H29.8053a.8466.8466,0,0,0,.8573-.9123C30.2417,14.5718,27.4831,11.5119,24.0638,11.2533Z"/>
+</svg>

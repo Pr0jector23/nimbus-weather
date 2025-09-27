@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  
+    --color-back-dark: #177192;
+    --color-back-mid: #213373;
+    --color-back-light: #0e7a92;
+    --color-button-light: #7377a0;
+    --color-ui-light: white;
+    /*#576a94*/
+    /*#7377a0*/
+
+
+    /* --color-back-dark: #131458;
+    --color-back-mid: #213373;
+    --color-back-light: #264e92;
+    --color-button-light: #7377a0;
+    --color-ui-light: white; */
+  }
+
+@layer utilities {
+  .grid-main-page {
+    display: grid;
+    grid-template-areas:
+      "s s s w w w w w w w"
+      "m m m d d d d d d d"
+      "g g g g h h h h h h"
+      "q q q q q q q q q q"
+      ;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.1fr 0.5fr 0.1fr 0.1fr;
+  }
+
+  .a-sum {
+    grid-area: s;
+  }
+
+  .a-more {
+    grid-area: m;
+  }
+
+  .a-day {
+    grid-area: d;
+  }
+
+  .a-week {
+    grid-area: w;
+  }
+
+  .a-more-2 {
+    grid-area: g;
+  }
+
+  .a-more-3 {
+    grid-area: h;
+  }
+
+  .a-map {
+    grid-area: q;
+  }
+}

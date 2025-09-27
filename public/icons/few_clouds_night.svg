@@ -1,0 +1,33 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Безымянный_градиент_925);
+      }
+
+      .cls-2 {
+        fill: url(#Безымянный_градиент_477);
+      }
+    </style>
+    <radialGradient id="Безымянный_градиент_925" data-name="Безымянный градиент 925" cx="13.7204" cy="16.4805" r="11.6714" gradientUnits="userSpaceOnUse">
+      <stop offset="0.0092" stop-color="#a6dbff"/>
+      <stop offset="0.1778" stop-color="#a0d6fb"/>
+      <stop offset="0.4014" stop-color="#8fc9ef"/>
+      <stop offset="0.6558" stop-color="#74b2dd"/>
+      <stop offset="0.9311" stop-color="#4e93c2"/>
+      <stop offset="0.981" stop-color="#468dbd"/>
+    </radialGradient>
+    <radialGradient id="Безымянный_градиент_477" data-name="Безымянный градиент 477" cx="16.1974" cy="24.5225" r="18.3023" gradientTransform="translate(0 11.0772) scale(1 0.5483)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#45b5ff"/>
+      <stop offset="0.1346" stop-color="#43b1f9"/>
+      <stop offset="0.3131" stop-color="#3fa5e8"/>
+      <stop offset="0.5163" stop-color="#3791cd"/>
+      <stop offset="0.7359" stop-color="#2d77a7"/>
+      <stop offset="0.9382" stop-color="#22597d"/>
+    </radialGradient>
+  </defs>
+  <g id="moon_fewClouds">
+    <path class="cls-1" d="M22.1706,21.82A12.0389,12.0389,0,0,1,11.2727,4.62,12.0531,12.0531,0,1,0,25.1994,21.4207,12.0394,12.0394,0,0,1,22.1706,21.82Z"/>
+    <path class="cls-2" d="M24.2216,20.553A7.3684,7.3684,0,0,0,11.59,19.63l-.01.0167A2.3725,2.3725,0,0,0,9.69,18.6693a2.4163,2.4163,0,0,0-2.4163,2.4162c0,.0484.0249.0888.0276.1365l-.0064-.0007H7.2628a7.3166,7.3166,0,0,0-7.2014,6.204.8631.8631,0,0,0,.871.9549H30.0689a.8623.8623,0,0,0,.8731-.9291C30.5133,23.9327,27.7038,20.8165,24.2216,20.553Z"/>
+  </g>
+</svg>

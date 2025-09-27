@@ -1,0 +1,18 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Безымянный_градиент_925);
+      }
+    </style>
+    <radialGradient id="Безымянный_градиент_925" data-name="Безымянный градиент 925" cx="15.5" cy="16.5" r="12.8032" gradientUnits="userSpaceOnUse">
+      <stop offset="0.0092" stop-color="#a6dbff"/>
+      <stop offset="0.1778" stop-color="#a0d6fb"/>
+      <stop offset="0.4014" stop-color="#8fc9ef"/>
+      <stop offset="0.6558" stop-color="#74b2dd"/>
+      <stop offset="0.9311" stop-color="#4e93c2"/>
+      <stop offset="0.981" stop-color="#468dbd"/>
+    </radialGradient>
+  </defs>
+  <path id="moon" class="cls-1" d="M24.77,22.3568A13.2065,13.2065,0,0,1,12.8149,3.4891a13.2219,13.2219,0,1,0,15.2773,18.43A13.2055,13.2055,0,0,1,24.77,22.3568Z"/>
+</svg>
